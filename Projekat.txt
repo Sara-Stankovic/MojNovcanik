@@ -1,0 +1,29 @@
+MojNovcanik
+
+Bazicna CLI aplikacija za mobilno bankarstvo.
+*** Aplikacija je i dalje u izradi ***
+Program za sada moze da prikaze stanje na racunu, izvrsi placanje, prenos sredstava i konvertuje valute
+
+1.Glavni Meni
+Korisnik bira opciju unosom broja
+	1.Novi nalog
+	Korisnik kreira nalog unosom imena i prezimena, emaila i pin-a. Email mora da sadrzi "@" i da se zavrsava na ".com". Pin mora da se sastoji iz 4 broja. Nakon toga korisnik unosi pocetno stanje na dinarskom i deviznom racunu.
+	2.Uloguj se
+	Korisnik se loguje unosom prethodno generisanog pin-a i pristupa Login Meniju
+	3.Kontakt
+	Ispisuje kontakt podatke banke.
+	4.Izadji
+	Kraj programa.
+
+2.Login Meni
+Korisnik bira opciju unosom broja
+	1.Stanje na racunu
+	Ispisuje stanje na dinarskom ili deviznom racunu.
+	2.Novo placanje
+	Korisnik izvrsava placanje sa dinarskog racuna unosenjem svrhe uplate i iznosa. Nije dozvoljeno prekoraciti stanje na dinarskom racunu.
+	3.Prenos sredstava
+	Korisnik moze da prenese sredstva sa jednog na drugi racun.
+	4.Konvertor valuta
+	Konvertovanje dinara u evro, dolar ili franak
+	5.Nazad
+	Povratak na Glavni Meni
