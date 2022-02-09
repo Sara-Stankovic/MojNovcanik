@@ -1,8 +1,7 @@
 MojNovcanik
 
 Bazicna CLI aplikacija za mobilno bankarstvo.
-*** Aplikacija je i dalje u izradi ***
-Program za sada moze da prikaze stanje na racunu, izvrsi placanje, prenos sredstava i konvertuje valute
+Program moze da prikaze stanje na racunu, izvrsi placanje, prenos sredstava i konvertuje valute
 
 1.Glavni Meni
 Korisnik bira opciju unosom broja
